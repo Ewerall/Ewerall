@@ -6,19 +6,25 @@
 
 ###
 
-<h1 align="center">Привет</h1>
+<h1 align="center">Hello. Welcome to my profile</h1>
+
+<div align="center">
+    <a href="https://t.me/Rubercore" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    </a>
+</div>
 
 ###
 
-<h3 align="left">Обо мне</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">Я начинающий QA инженер и игровой разработчик. Мой путь в IT начался в подростковом возрасте: я изучал алгоритмы (блок-схемы), посещал курсы и решал задачи на Project Euler. Тогда же я освоил Python и JavaScript. <br>
+<p align="left">I'm an aspiring QA Engineer and Game Developer. My journey in code began during my teenage years: I studied algorithms (flowcharts), attended courses, and solved problems on Project Euler. During this time, I mastered Python and JavaScript.<br>
 
-<p align="left">Со временем я пробовал разные направления: веб-разработку на React, Data Science и информационную безопасность. Опыт помог мне осознать, что QA — область, где чувствую себя лучше всего.<br>
+<p align="left">Over time, I have explored various fields: React-based web development, data science, cybersec, shader art, and modding. Eventually, I realized that QA is where I feel most comfortable.<br>
 
-<p align="left">Сейчас я специализируюсь на ручном и автоматизированном тестировании (Python/Java), а также частично занимаюсь DevOps. В качестве хобби разрабатываю игровые проекты на Godot Engine<br>
+<p align="left">Currently, I specialize in manual and automated testing (Python/Java), with additional experience in DevOps and developing small desktop applications. As a hobby, I develop game projects using Godot Engine.<br>
 
 ###
 
@@ -28,7 +34,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h2 align="left">My Tech Stack</h3>
 
 ###
 
@@ -60,7 +66,7 @@
 
 ###
 
-<h2 align="left">Статистика GitHub</h2>
+<h2 align="left">GitHub Statistics</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ewerall&theme=dark&mode=weekly&hide_border=true&border_radius=8"  alt="Streak Stats" />
