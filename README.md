@@ -69,7 +69,6 @@
 <h2 align="left">GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ewerall&theme=dark&mode=weekly&hide_border=true&border_radius=8"  alt="Streak Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerall&layout=compact&theme=dark&hide_border=true&langs_count=6"  alt="Top Languages" />
   
